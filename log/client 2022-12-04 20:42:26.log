@@ -1,9 +1,0 @@
-INFO:root:WRITE (Server): HELLO
-INFO:root:READ (Server): Y: What is your name?
-INFO:root:WRITE (Server): ben
-INFO:root:READ (Server): Y: Rock, Paper, or Scissors?
-INFO:root:WRITE (Server): Paper
-INFO:root:READ (Server): Y: Rock, Paper, or Scissors?
-INFO:root:WRITE (Server): Rock
-INFO:root:No message from server
-INFO:root:Closing the connection
